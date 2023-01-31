@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FT.ApiDotNet6.Api.props" />
+</Project>

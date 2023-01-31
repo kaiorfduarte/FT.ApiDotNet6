@@ -1,0 +1,15 @@
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\bin\Debug\net6.0\FT.ApiDotNet6.Application.deps.json
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\bin\Debug\net6.0\FT.ApiDotNet6.Application.dll
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\bin\Debug\net6.0\FT.ApiDotNet6.Application.pdb
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\bin\Debug\net6.0\FT.ApiDotNet6.Domain.dll
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\bin\Debug\net6.0\FT.ApiDotNet6.Domain.pdb
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.csproj.AssemblyReference.cache
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.AssemblyInfoInputs.cache
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.AssemblyInfo.cs
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.csproj.CoreCompileInputs.cache
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.csproj.CopyComplete
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.dll
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\refint\FT.ApiDotNet6.Application.dll
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\FT.ApiDotNet6.Application.pdb
+C:\GitK\FT.ApiDotNet6\FT.ApiDotNet6.Application\obj\Debug\net6.0\ref\FT.ApiDotNet6.Application.dll
